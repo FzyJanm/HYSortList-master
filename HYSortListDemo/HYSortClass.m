@@ -16,7 +16,7 @@
 
 @implementation HYSortClass
 
-#pragma <#arguments#>
+#pragma test
 
 - (instancetype)init {
     if (self = [super init]) {
